@@ -1,0 +1,73 @@
+﻿.tablenum{
+            line-height:normal;
+            border-collapse:collapse;
+        }
+        .tablenum th,.tablenum td{
+            border:1.5px solid black;
+        }
+        .markesobtained{
+            text-align:center;
+            width:70px;
+            border:none;
+        }
+        .gracebp{
+            border:none;
+            text-align:center;
+        }
+        .result{
+            text-transform:uppercase;
+            width:70px;
+            border:none;
+            font-size:larger;
+            text-align:center;
+        }
+        .backsubname
+        {
+            width:270px;
+            border:none;
+        }
+        .mm{
+            border:none;
+            text-align:center;
+            width:50px;
+        }
+        .semtotal{
+            border:none;
+            width:70px;
+            text-align:center;
+        }
+        .pdffooter{
+            font-weight:600;
+            padding-left:25px;
+            padding-top:0px;
+            text-align:left;
+        }
+        .pdfhr{
+            padding-top:0em;
+            height:0px;
+            padding:0px;
+        }
+        .termonsecpaper{
+            padding-left:60px;
+            font-size:large;
+        }
+        .termonsecpaper ol li{
+            line-height:25px;
+            text-align:left;
+        }
+        .verifyform{
+            font-size:15px;
+            line-height:25px;
+            letter-spacing:2px;
+            padding-right:40px;
+            text-align:left;
+            padding-left:60px;
+        }
+        .verifyform p {
+                border: 0.5px solid black;
+            }
+        .verifyform h5{
+            font-size:15px;
+            padding-right:20px;
+            text-align:right;
+        }
